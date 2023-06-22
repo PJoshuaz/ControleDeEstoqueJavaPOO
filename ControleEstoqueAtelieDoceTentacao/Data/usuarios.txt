@@ -1,0 +1,4 @@
+1|nome|email|username|senha|0
+2|nome|email|username|senha|0
+3|Daniel|dan@gmail.com|da|123|0
+4|Victor|Vitinho@gmail.com|Vitim|123|0
